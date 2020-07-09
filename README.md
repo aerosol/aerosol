@@ -1,1 +1,1 @@
-![](https://media.giphy.com/media/YQitE4YNQNahy/source.gif)
+![](https://mtod.org/photos/2019/places3/02.jpg)
