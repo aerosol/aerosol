@@ -8,4 +8,4 @@ If the image below shows any variation, it likely means I'm still alive.
 So far my total running distance is:
 </p>
 
-![](https://okidoki.computer/run-total.svg)
+![](https://okidoki.computer/run-total.svg?v=3)
