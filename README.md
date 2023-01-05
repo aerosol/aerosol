@@ -1,20 +1,3 @@
 <a rel="me" href="https://fosstodon.org/@hq1" type="text/html"/>
 
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
-
-### Health Check
-
-<p>
-If the image below shows any variation, it likely means I'm still alive.
-</p>
-
-<table>
-  <tr>
-    <td>
-<img src="https://mtod.org/me/heart.png" width="600"/>
-    </td>
-    <td>
-<img width="200" src="https://camo.githubusercontent.com/ece2ef325aa7ee0de4a5119568cc725b09cacf14e0740d15ab2d27af36b7b5a3/68747470733a2f2f6f6b69646f6b692e636f6d70757465722f72756e2d746f74616c2e7376673f763d33"/>
-    </td>
-  </tr>
-</table>
