@@ -1,3 +1,7 @@
-<a rel="me" href="https://fosstodon.org/@hq1" type="text/html"/>
+```
+ /\_/\      /\_/\      /\_/\      /\_/\      /\_/\      /\_/\      /\_/\
+( o.o )    ( o.o )    ( o.o )    ( o.o )    ( o.o )    ( o.o )    ( o.o )
+ > ^ <      > ^ <      > ^ <      > ^ <      > ^ <      > ^ <      > ^ <
+```
 
-[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+Among the maxims on Lord Naoshige's wall, there was this one: "Matters of great concern should be treated lightly." Master Ittei commented, "Matters of small concern should be treated seriously."
